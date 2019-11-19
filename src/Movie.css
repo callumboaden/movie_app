@@ -1,0 +1,5 @@
+.Movie
+{
+    display: flex;
+    flex-direction: column;
+}

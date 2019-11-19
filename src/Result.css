@@ -1,0 +1,10 @@
+.Result
+{
+    display: flex;
+    flex-basis: 50%;
+}
+.Result__text
+{
+    padding: 0 2%;  
+    text-align: left;
+}
